@@ -8,7 +8,7 @@
 
 ## :computer: Projeto
 
-O DevRadar é um projeto com objetivo de encontrar novos desenveolvedores pela região.
+O DevRadar é um projeto com objetivo de encontrar novos desenvolvedores pela região.
 
 ## :mortar_board: Prof. do curso
 
@@ -20,6 +20,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ## :computer: Versão desktop
 
-<img src="../snapshot/snapshot1.png" />
+<img src="./snapshot/snapshot1.png" />
 ---
 
